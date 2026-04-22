@@ -1,0 +1,246 @@
+{
+    "name": "Mudasir Maqbool",
+    "eyebrow": "FULL STACK SOFTWARE DEVELOPER",
+    "headline": "Building elegant software experiences that scale.",
+    "summary": "This summary should be replaced with your exact professional overview extracted from your PDF.",
+    "roles": [
+        "Full Stack Developer",
+        "Angular Expert",
+        "Node.js Developer"
+    ],
+    "profileInitials": "FS",
+    "aboutCards": [
+        {
+            "title": "Professional Bio",
+            "content": "Replace this text with your PDF bio, specialization, and career objective."
+        },
+        {
+            "title": "Experience",
+            "content": "Replace this card with your work experience from the PDF including role, organization, and duration."
+        },
+        {
+            "title": "Education",
+            "content": "Replace this section with your education details from the PDF."
+        }
+    ],
+    "skillGroups": [
+        {
+            "category": "Frontend",
+            "skills": [
+                {
+                    "name": "html",
+                    "level": 85,
+                    "icon": "code",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                },
+                {
+                    "name": "css",
+                    "level": 80,
+                    "icon": "code",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                },
+                {
+                    "name": "TypeScript",
+                    "level": 92,
+                    "icon": "terminal",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                },
+                {
+                    "name": "JavaScript",
+                    "level": 90,
+                    "icon": "terminal",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                }
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "skills": [
+                {
+                    "name": "Angular",
+                    "level": 95,
+                    "icon": "web",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+                },
+                {
+                    "name": "React",
+                    "level": 82,
+                    "icon": "web",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                }
+            ]
+        },
+        {
+            "category": "Libraries",
+            "skills": [
+                {
+                    "name": "Bootstrap",
+                    "level": 80,
+                    "icon": "palette",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "level": 87,
+                    "icon": "palette",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+                },
+                {
+                    "name": "Material Design",
+                    "level": 85,
+                    "icon": "palette",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+                }
+            ]
+        },
+        {
+            "category": "Backend",
+            "skills": [
+                {
+                    "name": "Node.js",
+                    "level": 90,
+                    "icon": "dns",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                },
+                {
+                    "name": "PHP",
+                    "level": 88,
+                    "icon": "dns",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                },
+                {
+                    "name": "Laravel",
+                    "level": 88,
+                    "icon": "dns",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+                },
+                {
+                    "name": "Java",
+                    "level": 84,
+                    "icon": "memory",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                },
+                {
+                    "name": "Spring Boot",
+                    "level": 82,
+                    "icon": "memory",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+                }
+            ]
+        },
+        {
+            "category": "Database",
+            "skills": [
+                {
+                    "name": "MySQL",
+                    "level": 80,
+                    "icon": "storage",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "level": 86,
+                    "icon": "storage",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+                },
+                {
+                    "name": "MongoDB",
+                    "level": 84,
+                    "icon": "storage",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+                },
+                {
+                    "name": "Oracle",
+                    "level": 78,
+                    "icon": "storage",
+                    "iconLink": "./icons/oracle.png"
+                }
+            ]
+        },
+        {
+            "category": "Tools",
+            "skills": [
+                {
+                    "name": "Docker",
+                    "level": 85,
+                    "icon": "inventory_2",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+                },
+                {
+                    "name": "Postman",
+                    "level": 88,
+                    "icon": "send",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+                },
+                {
+                    "name": "Vs Code",
+                    "level": 79,
+                    "icon": "cloud",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                },
+                {
+                    "name": "Intellij IDEA",
+                    "level": 79,
+                    "icon": "cloud",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+                }
+
+            ]
+        },
+        {
+            "category": "Version Control & CI/CD",
+            "skills": [
+                {
+                    "name": "Git",
+                    "level": 79,
+                    "icon": "cloud",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                },
+                {
+                    "name": "Git Hub",
+                    "level": 78,
+                    "icon": "cloud",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+                },
+                {
+                    "name": "GitHub Actions",
+                    "level": 80,
+                    "icon": "integration_instructions",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"
+                },
+                {
+                    "name": "Git Lab",
+                    "level": 78,
+                    "icon": "cloud",
+                    "iconLink": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+                }
+            ]
+        }
+    ],
+    "socialLinks": [
+        {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/mudasirmaqbool",
+            "icon": "business",
+            "iconLink": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+        },
+        {
+            "label": "GitHub",
+            "href": "https://github.com/MySelfMudasir",
+            "icon": "code",
+            "iconLink": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+        },
+        {
+            "label": "Facebook",
+            "href": "https://www.facebook.com/myselfmudasir",
+            "icon": "photo_camera",
+            "iconLink": "https://cdn-icons-png.flaticon.com/512/5968/5968764.png"
+        },
+        {
+            "label": "Instagram",
+            "href": "https://www.instagram.com/myselfmudasir",
+            "icon": "photo_camera",
+            "iconLink": "https://cdn-icons-png.flaticon.com/512/174/174855.png"
+        }
+    ]
+}
